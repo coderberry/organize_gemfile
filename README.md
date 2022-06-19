@@ -16,7 +16,13 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+Create the binstub for the gem by executing:
+
+    $ bundle binstub organize_gemfile
+
+Generate the organized Gemfile:
+
+    $ bin/organize_gemfile
 
 ## Development
 
